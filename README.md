@@ -96,6 +96,6 @@
 
 | Настройка Throne |
 | :---: |
-| ![Throne Rules](images/rules-trone.png) |
+| ![Throne Rules](images/rules-throne.png) |
 
 </details>
