@@ -37,7 +37,7 @@
 
 <br/>
 
-| Шаг 2: Throne | Шаг 4-5: ProxyBridge |
+| Шаг 2: Throne | Шаг 5: ProxyBridge |
 | :---: | :---: |
 | ![Throne](images/install-Throne.png) | ![ProxyBridge](images/install-ProxyBridge.png) |
 
