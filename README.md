@@ -95,6 +95,6 @@
 
 | Настройка Throne |
 | :---: |
-| ![Proxifier Rules](images/rules-tcp.png) |
+| ![Throne Rules](images/rules-trone.png) |
 
 </details>
