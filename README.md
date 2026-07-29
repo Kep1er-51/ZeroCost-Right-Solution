@@ -27,17 +27,18 @@
 
 1. Скачайте архив со сборкой и распакуйте его в удобную папку.
 2. Запустите **Throne** (по пути `...\Throne\Throne.exe`) и добавьте в него ваш VPN-профиль/ключ.
-3. Запустите **Proxifier** (по пути `...\Proxifier PE\Proxifier.exe`).
-4. Установите **ProxyBridge** (по пути `...\ProxyBridge\ProxyBridge-Setup-4.0.0.exe`).
-5. Импортируйте готовый профиль из той же папки в ProxyBridge.
-6. Готово! Пользуйтесь интернетом без ограничений.
+3. Выберите сервер и нажмите плей (большая кнопка с зеленым треугольником)
+4. Запустите **Proxifier** (по пути `...\Proxifier PE\Proxifier.exe`).
+5. Установите **ProxyBridge** (по пути `...\ProxyBridge\ProxyBridge-Setup-4.0.0.exe`).
+6. Импортируйте готовый профиль из той же папки в ProxyBridge.
+7. Готово! Пользуйтесь интернетом без ограничений.
 
 <details>
 <summary>📸 <b>Нажми, чтобы открыть пошаговые скриншоты установки</b></summary>
 
 <br/>
 
-| Шаг 2: Throne | Шаг 5: ProxyBridge |
+| Шаг 2: Throne | Шаг 6: ProxyBridge |
 | :---: | :---: |
 | ![Throne](images/install-Throne.png) | ![ProxyBridge](images/install-ProxyBridge.png) |
 
