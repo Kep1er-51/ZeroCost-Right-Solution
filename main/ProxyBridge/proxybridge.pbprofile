@@ -10,6 +10,14 @@
     {
       "Id": 1,
       "Type": "SOCKS5",
+      "Host": "192.168.1.1",
+      "Port": "2080",
+      "Username": "",
+      "Password": ""
+    },
+    {
+      "Id": 2,
+      "Type": "SOCKS5",
       "Host": "127.0.0.1",
       "Port": "2080",
       "Username": "",
@@ -27,31 +35,13 @@
       "ProxyConfigId": 0
     },
     {
-      "ProcessName": "Discord.exe;",
+      "ProcessName": "Discord.exe; Telegram.exe;",
       "TargetHosts": "*",
       "TargetPorts": "*",
       "Protocol": "UDP",
       "Action": "PROXY",
       "IsEnabled": true,
-      "ProxyConfigId": 1
-    },
-    {
-      "ProcessName": "Discord.exe;",
-      "TargetHosts": "*",
-      "TargetPorts": "19294-19344; 50000-65000",
-      "Protocol": "UDP",
-      "Action": "PROXY",
-      "IsEnabled": true,
-      "ProxyConfigId": 1
-    },
-    {
-      "ProcessName": "Telegram.exe; ",
-      "TargetHosts": "*",
-      "TargetPorts": "*",
-      "Protocol": "UDP",
-      "Action": "PROXY",
-      "IsEnabled": true,
-      "ProxyConfigId": 1
+      "ProxyConfigId": 2
     },
     {
       "ProcessName": "*",

@@ -46,7 +46,7 @@
 		</Rule>
 		<Rule enabled="true">
 			<Action type="Proxy">104</Action>
-			<Applications>chrome.exe; clion64.exe; datagrip64.exe; idea64.exe; jetbrains_client64.exe; pycharm64.exe; remote-dev-server.exe; remote-dev-worker-windows-amd64.exe; remote-dev-worker-windows-arm64.exe; studio64.exe; discord.exe; update.exe; Telegram.exe</Applications>
+			<Applications>discord.exe; update.exe; Telegram.exe; chrome.exe; msedge.exe; browser.exe; firefox.exe; opera.exe; vivaldi.exe; brave.exe; sidekick.exe; waterfox.exe; tor.exe</Applications>
 			<Name>progs</Name>
 		</Rule>
 		<Rule enabled="true">
