@@ -37,13 +37,11 @@
 
 <br/>
 
-| Шаг 1-2: Throne | Шаг 3: Proxifier |
+| Шаг 2: Throne | Шаг 4-5: ProxyBridge |
 | :---: | :---: |
-| ![Throne](images/install-step1.png) | ![Proxifier](images/install-step2.png) |
+| ![Throne](images/install-Throne.png) | ![ProxyBridge](images/install-ProxyBridge.png) |
 
-| Шаг 4-5: ProxyBridge |
-| :---: |
-| ![ProxyBridge](images/install-step3.png) |
+
 
 </details>
 
